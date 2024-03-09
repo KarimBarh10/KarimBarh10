@@ -7,6 +7,8 @@
 
 - 🎓 B.S. Software Development **@ Western Governor's University**
 
+- 📍 Located in **Montreal, QC - Canada**
+
 - 📫 How to reach me **k.barhmed@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
