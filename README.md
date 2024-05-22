@@ -3,9 +3,9 @@
 
 - 👨‍💻 Find my best projects at **www.karimbarhmed.dev**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently in my last year **at university**
 
-- 🎓 B.S. Software Development **@ Western Governor's University**
+- 🎓 B.S. Software Engineering **@ Western Governor's University**
 
 - 📍 Located in **Montreal, QC - Canada**
 
