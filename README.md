@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently in my last year **at university**
 
-- 🎓 B.S. Software Engineering **@ Western Governor's University**
+- 🎓 B.S. Software Engineering Student **@ Western Governor's University**
 
 - 📍 Located in **Montreal, QC - Canada**
 
