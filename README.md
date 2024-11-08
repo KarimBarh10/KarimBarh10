@@ -3,9 +3,7 @@
 
 - 👨‍💻 Find my best projects at **www.karimbarhmed.dev**
 
-- 🌱 I’m currently in my last year **at university**
-
-- 🎓 B.S. Software Engineering Student **@ Western Governor's University**
+- 🎓 B.S. Software Engineering graduate **@ Western Governor's University**
 
 - 📍 Located in **Montreal, QC - Canada**
 
