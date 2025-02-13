@@ -9,7 +9,7 @@
 
 - 🇫🇷 **Je parle aussi Français**
 
-- 📫 How to reach me **kbarhme@wgu.edu**
+- 📫 How to reach me **k.barhmed@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
